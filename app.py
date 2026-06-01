@@ -55,7 +55,7 @@ st.set_page_config(page_title="Sobolev Bottleneck Simulator", layout="wide")
 st.title("The Sobolev Paradox in Deep Learning")
 st.markdown("**An Interactive Proof of Spectral Bias and Memory Loss in Autoencoders.**")
 
-st.latex(r"| f |_{H^1}^2 = \int_{\Omega} |\nabla f(x)|^2 dx")
+st.markdown(r"<h2 style='text-align: center;'>$$| f |_{H^1}^2 = \int_{\Omega} |\nabla f(x)|^2 dx$$</h2>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: gray;'>The Sobolev semi-norm measuring high-frequency gradient energy.</p>", unsafe_allow_html=True)
 st.divider()
 
