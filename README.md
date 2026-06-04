@@ -13,7 +13,7 @@ The tool visually and mathematically demonstrates the collapse of the $H^1$ Sobo
 ---
 
 ## 📊 Dashboard Overview
-![Sobolev Simulator UI](assets/ui_overview.png)
+![Sobolev Simulator UI](overview.png)
 
 ## 🧠 The Intuition (In Plain English)
 If you are new to approximation theory, here is exactly what this topology is doing, conceptualized as painting a portrait:
@@ -29,7 +29,7 @@ Imagine taking a piece of tracing paper and copying the exact, hyper-realistic o
 ---
 
 ## 🔬 The Visual Proof (Topological Reconstruction)
-![Reconstruction Output](assets/reconstruction_proof.jpg)
+![Reconstruction Output](reconstructed.png)
 *At a compression kernel size of 7, the bottleneck ($K_f$) completely loses the high-frequency boundaries of the input data. Engaging the skip connection mathematically bypasses the bottleneck, resulting in 100% gradient energy preservation and a flawless topological reconstruction.*
 
 ---
