@@ -36,7 +36,7 @@ Imagine taking a piece of tracing paper and copying the exact, hyper-realistic o
 
 ## 📐 Mathematical Formulation & Proofs
 For a rigorous mathematical breakdown of the Sobolev bottleneck, finite difference gradient calculations, and the spectral bias proof, please read the accompanying documentation:
-👉 **[Read the Mathematical Theory (THEORY.md)](Theory.md)**
+👉 **[Read the Mathematical Theory (Theory.md)](Theory.md)**
 
 ---
 
