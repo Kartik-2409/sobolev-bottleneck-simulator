@@ -7,8 +7,6 @@ This repository contains a Streamlit-based interactive simulator developed as pa
 
 The tool visually and mathematically demonstrates the collapse of the $H^1$ Sobolev semi-norm (gradient energy) during spatial downsampling in autoencoders, and proves the topological necessity of residual skip connections to preserve high-frequency boundary conditions.
 
-### Author
-**Kartik R C Pilley** *Integrated M.Sc. Mathematics*
 
 ---
 
