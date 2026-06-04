@@ -3,7 +3,7 @@ In image segmentation and feature extraction, critical information such as anato
 
 Let $\Omega \subset \mathbb{R}^2$ be the continuous image domain and $f: \Omega \rightarrow \mathbb{R}$ be our input function representing the spatial data. The gradient energy is mathematically defined as:
 
-$$|f|_{H^1}^2 = \int_{\Omega} |\nabla f(x)|^2 \, dx$$
+$$|f|_{H^1}^2 = \int_{\Omega} |\nabla f(x)|^2 \dx$$
 
 In the discrete tensor space, a sharp boundary yields a maximal local gradient, preserving the total structural energy.
 
