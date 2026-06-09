@@ -3,7 +3,7 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sobolev-bottleneck-simulator-8uhx73cwcxo9csshvmrjqr.streamlit.app/)
 
-This repository contains a Streamlit-based interactive simulator developed as part of a Directed Independent Study in Mathematics (Neural Network Operators in Approximation Theory) at SVNIT. 
+This repository contains a Streamlit-based interactive simulator developed as part of a Directed Independent Study in Mathematics (Neural Network Operators in Approximation Theory) . 
 
 The tool visually and mathematically demonstrates the collapse of the $H^1$ Sobolev semi-norm (gradient energy) during spatial downsampling in autoencoders, and proves the topological necessity of residual skip connections to preserve high-frequency boundary conditions.
 
